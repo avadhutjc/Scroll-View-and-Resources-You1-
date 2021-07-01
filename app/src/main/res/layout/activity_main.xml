@@ -15,7 +15,9 @@
         android:layout_weight="1"
         android:orientation="horizontal" >
 
-
+    <EditText
+        style="@style/customEdittext"
+        android:hint="@string/select_option" />
     </LinearLayout>
 
     <LinearLayout

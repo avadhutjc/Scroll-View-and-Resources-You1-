@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScrollView(You1)</string>
+    <string name="enter_the_name_hint">Jonathan</string>
+    <string name="doe">Doe</string>
+    <string name="jonathandoe_caketv_com">Jonathandoe@caketv.com</string>
+    <string name="select_option">Select option</string>
+
+
+</resources>
